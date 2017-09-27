@@ -1,0 +1,2 @@
+I have to say, this assignment has been very interesting.  I've never used NLTK before, but it's quite useful in accounting for edge cases when separating blocks of text by sentence.  After all,
+not all sentences end in a period.  I know this because someone once said on stack overflow, 'I bet I can give you one sentence that doesn't end in a period.'  I found that quite funny.
